@@ -135,7 +135,7 @@ class Hero extends React.Component {
   
             </div>
             <ul id="img-list" className="hero__imgs d-flex p-0 list-unstyled">
-              <button className="hero__slide slide">
+              <button id='lee' className="hero__slide slide">
                 <img className="slide__img aktive" src="https://cdn.macbro.uz/macbro/003a584a-0d7d-4123-9f03-b3386914c6c2" alt="img" />
               </button>
               <button className="hero__slide slide">
